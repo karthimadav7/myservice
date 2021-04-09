@@ -1,2 +1,2 @@
 # myservice
-HEllo Service mobile pplication using firebase
+HEllo Service V1.0 Android application using firebase
